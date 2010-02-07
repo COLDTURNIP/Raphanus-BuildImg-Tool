@@ -17,7 +17,7 @@ targetPath = 'build_img_output/'
     
 if __name__ == '__main__':
     print """
-    **** COLDTURNIP's Image Building Process ****
+    **** Raphanus's Image Building Process ****
     """
     
     if len(sys.argv) == 1 or (len(sys.argv) == 2 and sys.argv[1] == '-log'):
